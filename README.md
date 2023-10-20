@@ -1,2 +1,2 @@
-# kontrol-dengan-speech-recoginition
+# kontrol-dengan-speech-recognition
 kontrol beberapa aktuator dengan speech recognition
